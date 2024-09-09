@@ -1,3 +1,6 @@
+/*
+Autor: Rafael Miranda Jimenez
+*/
 public class hola_mundo_java{
 	/**
 	 * Aplicacion java
